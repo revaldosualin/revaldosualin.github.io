@@ -667,7 +667,7 @@ p{
     transform: scale(1.1);
 }
 
-#experiences .vid-button{
+/* #experiences .vid-button{
     display: inline-block;
     padding: 10px 30px;
     color: black;
@@ -685,7 +685,7 @@ p{
 #experiences .vid-button:hover{
     color: white;
     background-color: crimson;
-}
+} */
 
 
 
